@@ -1,0 +1,14 @@
+
+img{
+    width: 200px;
+    height: 200px;
+}
+div{
+    width: 450px;
+    height: 300px;
+    display: inline-flex;
+    border: 2px solid black;
+    margin: 5px;
+    padding: 5px;
+    align-content:center;
+}
